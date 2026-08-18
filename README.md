@@ -13,6 +13,8 @@ Static, responsive one-page website for **TrustVis: Workshop on Trustworthy Visu
 
 Submission site: [TrustVis on OpenReview](https://openreview.net/group?id=bmva.org/BMVC/2026/Workshop/TrustVis#tab-your-consoles)
 
+Submission format: use the [official BMVC 2026 template](https://bmvc2026.bmva.org/authors/author-guidelines/); papers may be up to **14 pages, excluding references**.
+
 ## Files
 
 - `index.html` — all page content and links
@@ -27,7 +29,7 @@ Submission site: [TrustVis on OpenReview](https://openreview.net/group?id=bmva.o
 
 ## Before publishing
 
-Add the detailed author instructions once paper format, page limits and review criteria are confirmed. The submission deadline is verified against OpenReview; later workflow dates still require organiser confirmation. Speaker information can also be updated when invitations are confirmed.
+Add any remaining author instructions once the review criteria and archival policy are confirmed. The submission deadline is verified against OpenReview; later workflow dates still require organiser confirmation. Speaker information can also be updated when invitations are confirmed.
 
 ## GitHub Pages deployment
 
