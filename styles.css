@@ -165,8 +165,10 @@ h2{margin:0;font-family:var(--serif);font-size:clamp(2.6rem,4vw,4rem);font-weigh
 .submission-copy>h2+.opening-copy{margin-top:30px}
 .portal-status{display:grid;grid-template-columns:12px 1fr;gap:14px;margin-top:36px;padding:18px 0;border-block:1px solid var(--rule)}
 .portal-status>span{width:8px;height:8px;margin-top:7px;background:var(--oxide)}
+.portal-status.portal-live>span{background:var(--teal)}
 .portal-status strong{font-size:.88rem}
 .portal-status p{margin:3px 0 0;color:var(--muted);font-size:.79rem}
+.portal-status a{color:var(--teal-dark);font-weight:600}
 .policy-note{margin-top:34px}
 .policy-note h3{margin:0;font-family:var(--serif);font-size:1.2rem;font-weight:600}
 .policy-note p{max-width:700px;margin:9px 0 0;color:var(--muted);font-size:.83rem}

@@ -4,13 +4,14 @@ Static, responsive one-page website for **TrustVis: Workshop on Trustworthy Visu
 
 ## Important dates
 
-- Call for papers & portal open: **12 August 2026**
 - Submission deadline: **12 September 2026**
 - Author notification: **26 September 2026**
 - Participation confirmation: **3 October 2026**
 - Camera-ready deadline: **16 October 2026**
 - Final program published: **23 October 2026**
 - Workshop: **26 November 2026**
+
+Submission site: [TrustVis on OpenReview](https://openreview.net/group?id=bmva.org/BMVC/2026/Workshop/TrustVis#tab-your-consoles)
 
 ## Files
 
@@ -26,7 +27,7 @@ Static, responsive one-page website for **TrustVis: Workshop on Trustworthy Visu
 
 ## Before publishing
 
-Replace the placeholder submission portal URL / author instructions once the actual link is confirmed. Speaker information can also be updated when invitations are confirmed.
+Add the detailed author instructions once paper format, page limits, review criteria and deadline timezone are confirmed. Speaker information can also be updated when invitations are confirmed.
 
 ## GitHub Pages deployment
 
