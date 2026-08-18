@@ -4,12 +4,12 @@ Static, responsive one-page website for **TrustVis: Workshop on Trustworthy Visu
 
 ## Important dates
 
-- Submission deadline: **12 September 2026**
-- Author notification: **26 September 2026**
-- Participation confirmation: **3 October 2026**
-- Camera-ready deadline: **16 October 2026**
-- Final program published: **23 October 2026**
-- Workshop: **26 November 2026**
+- Submission deadline: **12 September 2026, 23:59 AoE (UTC−12)**
+- Author notification: **26 September 2026 (AoE)**
+- Participation confirmation: **3 October 2026 (AoE)**
+- Camera-ready deadline: **16 October 2026 (AoE)**
+- Final program published: **23 October 2026 (AoE)**
+- Workshop: **26 November 2026 (Lancaster local time, GMT)**
 
 Submission site: [TrustVis on OpenReview](https://openreview.net/group?id=bmva.org/BMVC/2026/Workshop/TrustVis#tab-your-consoles)
 
@@ -27,7 +27,7 @@ Submission site: [TrustVis on OpenReview](https://openreview.net/group?id=bmva.o
 
 ## Before publishing
 
-Add the detailed author instructions once paper format, page limits, review criteria and deadline timezone are confirmed. Speaker information can also be updated when invitations are confirmed.
+Add the detailed author instructions once paper format, page limits and review criteria are confirmed. The submission deadline is verified against OpenReview; later workflow dates still require organiser confirmation. Speaker information can also be updated when invitations are confirmed.
 
 ## GitHub Pages deployment
 
